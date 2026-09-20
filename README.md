@@ -4,7 +4,7 @@ A full-stack analytics platform that aggregates live job market data and uses AI
 
 ### 🔗 [Live Demo](https://ai-skill-gap-analyzer-dsk3cnesubbhphqvhqqycs.streamlit.app/)
 
-> 🍴 This is a fork of a 3-member final-year capstone project, built under faculty guidance. **My contributions:** _[fill in your specific part here — e.g. Gemini API skill-extraction pipeline / Salary Insights & Heat Map dashboards / data pipeline & database layer]_
+> 🍴 This is a fork of a 3-member final-year capstone project, built under faculty guidance. **My contributions:** Core project idea & concept, all data visualizations and dashboard design (Market Overview, Salary Insights, Companies, Heat Map, AI Skill Analyzer, Roadmap), and full project documentation — plus supporting contributions to the codebase.
 
 ## 📊 Overview
 
@@ -84,7 +84,7 @@ streamlit run views/dashboard.py
 
 ## 👥 Team
 
-Final-year MCA capstone project, built collaboratively by a 3-member team under faculty guidance at Galgotias University.
+Final-year MCA capstone project (Session 2024–26), built collaboratively by a 3-member team — **Aryan**, **Hritwik Sharma**, and **Ravi Ranjan Singh** — under the guidance of Dr. Swati Singh, School of Computer Applications and Technology, Galgotias University.
 
 ## 👤 Author (this fork)
 
