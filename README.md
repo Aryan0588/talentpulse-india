@@ -88,4 +88,4 @@ Final-year MCA capstone project (Session 2024–26), built collaboratively by a 
 
 ## 👤 Author (this fork)
 
-**Aryan** — [LinkedIn](#) · [GitHub](https://github.com/Aryan0588)
+**Aryan** — [LinkedIn](https://www.linkedin.com/in/aryan-saini-97b144218/) · [GitHub](https://github.com/Aryan0588)
